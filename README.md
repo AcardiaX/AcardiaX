@@ -13,8 +13,8 @@
 - **邮箱**：Acardia_ZYue@outlook.com
 - **酷安**：[折月成诗](http://www.coolapk.com/u/11905662)
   
-## 🛖仓库
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?title_color=224583&text_color=6f5670&icon_color=000000&bg_color=fefbff&show_owner=true&username=AcardiaX&repo=Monet-All)](https://github.com/anuraghazra/github-readme-stats)
+## 💻参与的活动
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AcardiaX&repo=Monet-All)
 
-## 🔥统计
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AcardiaX&show_icons=true&include_all_commits=true&title_color=224583&text_color=6f5670&icon_color=000000&bg_color=fefbff&hide=contribs&locale=cn)
+## 🔥统计数据
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AcardiaX&show_icons=true&locale=cn)

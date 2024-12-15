@@ -17,4 +17,4 @@
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AcardiaX&repo=Monet-All)
 
 ## 🔥统计数据
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AcardiaX&show_icons=true&locale=cn)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AcardiaX&hide_title=true&show_icons=true&locale=cn)
